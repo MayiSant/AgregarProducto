@@ -1,0 +1,7 @@
+C:\Users\santi\source\repos\AgregarProductos\AgregarProductos\bin\Debug\AgregarProductos.exe.config
+C:\Users\santi\source\repos\AgregarProductos\AgregarProductos\bin\Debug\AgregarProductos.exe
+C:\Users\santi\source\repos\AgregarProductos\AgregarProductos\bin\Debug\AgregarProductos.pdb
+C:\Users\santi\source\repos\AgregarProductos\AgregarProductos\obj\Debug\AgregarProductos.csproj.AssemblyReference.cache
+C:\Users\santi\source\repos\AgregarProductos\AgregarProductos\obj\Debug\AgregarProductos.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\AgregarProductos\AgregarProductos\obj\Debug\AgregarProductos.exe
+C:\Users\santi\source\repos\AgregarProductos\AgregarProductos\obj\Debug\AgregarProductos.pdb
